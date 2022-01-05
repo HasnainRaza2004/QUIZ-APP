@@ -1,0 +1,30 @@
+body{
+    background-color: #EEF0F2;
+    padding: 0%;
+    margin: 0%;
+}
+.conatainer{
+    background-color: #076f41;
+}
+.QUIZapp{
+    padding-right: 29.5em;
+    color: #03361f;
+}
+.options-hover:hover{
+     color: white;
+    background-color: #025831;
+    transform: translateX(50px);
+    box-shadow: grey ;
+    transition: 0.5s; 
+}
+#nxtbtn{
+    width: 8em;
+    height: 50px;
+}
+#nxtbtn:hover {
+    color: white;
+    background-color: #025831;
+    transform: translateY(20px);
+    box-shadow: grey ;
+    transition: 0.5s; 
+}
