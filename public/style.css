@@ -13,9 +13,9 @@ body{
 .options-hover:hover{
      color: white;
     background-color: #025831;
-    transform: translateX(50px);
+    transform: translateX(20px);
     box-shadow: grey ;
-    transition: 0.5s; 
+    transition: 1s; 
 }
 #nxtbtn{
     width: 8em;
@@ -23,8 +23,8 @@ body{
 }
 #nxtbtn:hover {
     color: white;
-    background-color: #025831;
-    transform: translateY(20px);
     box-shadow: grey ;
-    transition: 0.5s; 
+    background-color: #025831;
+    transform: translateY(10px);
+    transition: 1s; 
 }
